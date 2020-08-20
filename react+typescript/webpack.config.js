@@ -1,7 +1,7 @@
-const path = require('path');
+const path = require('path')
 
 module.exports = {
-  mode:"development",
+  mode:'develpoment',
   entry: './src/index.tsx',
   output: {
     filename: 'bundle.js',
@@ -28,4 +28,4 @@ module.exports = {
     react: 'React',
     'react-dom': 'ReactDOM',
   },
-};
+}
