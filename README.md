@@ -1,2 +1,7 @@
-# template
-front-end code template
+存放自用各种代码模板
+
+## 目标
+- react
+- vue
+- react+typescript
+- vue+typescript
